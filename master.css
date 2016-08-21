@@ -1,0 +1,35 @@
+nav{
+    width: 70%;
+    margin-right: 15%;
+    margin-left:  15%;
+    background-color: rgba(0,0,0,0.4);
+}
+nav li{
+    display: inline-flex;
+}
+
+#inputDiv{
+    margin-top: 10px;
+}
+
+ul {
+    list-style-type: none;
+}
+#container{
+    padding: 1px;
+    background-color: rgba(50,50,50,0.4);
+    text-align: center;
+    width:60%;
+    height: auto;
+    margin-right: 20%;
+    margin-left:  20%;
+    align-items: center;
+}
+li{
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+body{
+
+}
